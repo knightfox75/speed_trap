@@ -1,0 +1,145 @@
+ 
+SPEED TRAP
+by NightFox & Co.
+www.nightfoxandco.com
+
+
+
+- Game Idea & Design -
+
+NightFox
+KeyFrame_79
+
+
+
+- Code -
+
+NightFox
+
+
+
+- Background Graphics -
+
+. Splash Screens .
+NightFox
+ToniMax
+
+. Menu & GUI .
+NightFox
+ToniMax
+
+. Spring Speed .
+NightFox
+
+. Desert Trap .
+NightFox
+
+. The Factory .
+NightFox
+
+. Additional Graphics .
+NightFox
+ToniMax
+
+
+
+- Sprites -
+
+. Car Sprites .
+KeyFrame_79
+
+. Additional Sprites .
+NightFox
+
+
+
+- Music -
+
+. Menu & GUI .
+"Velo Matrix"
+from Mod Archive
+ID: 132774
+
+. Spring Speed .
+"After Sunset"
+from Mod Archive
+ID: 32366
+
+. Desert Trap .
+"Elysium"
+from Mod Archive
+ID: 40475
+
+. The Factory .
+"Final Evolution"
+from Mod Archive
+ID: 42208
+
+. Records .
+"Loud & Clear"
+from Mod Archive
+ID: 48984
+
+. Credits .
+"Far from Nowhere"
+from Mod Archive
+ID: 41367
+
+
+
+- Sound Effects -
+
+All sound effects has
+been obtained from the
+following website:
+
+www.freesound.org
+
+Using the following
+sounds IDs:
+42889, 43725
+and 79945
+
+
+
+- Special Thanks -
+
+AntonioND for his help
+in some parts of the code.
+
+Wintermute, Zeromus and
+rest of people from #dsdev
+for some tips while coding
+this game.
+
+BassAceGold, Almamu
+and my friends for test
+the game.
+
+
+
+- Thanks -
+ 
+To all people from
+#palib channel and
+SCENEBETA for all the
+tests and bugs reports.
+
+
+This game is distributed
+under Creative Commons
+licence, some rights
+reserved.
+(Attribution-NonCommercial)
+www.creativecommons.org
+
+
+
+No real rabbit was injured
+during the development of
+this game.
+
+
+
+(cc)2010 NightFox & Co.
+ 
